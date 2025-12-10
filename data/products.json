@@ -19,4 +19,26 @@
     "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/ipadair.png",
     "buy_link": "https://meusite.com/checkout?produto=ipadair"
   }
+   },
+  {
+    "id": "Mac1",
+    "category": "Mac",
+    "name": "iPad Air",
+    "price": 4999,
+    "status": "soldout",
+    "plan": "Parcelado 10x",
+    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/ipadair.png",
+    "buy_link": "https://meusite.com/checkout?produto=ipadair"
+  }
+   },
+  {
+    "id": "Acessori1",
+    "category": "Acessori",
+    "name": "iPad Air",
+    "price": 4999,
+    "status": "soldout",
+    "plan": "Parcelado 10x",
+    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/ipadair.png",
+    "buy_link": "https://meusite.com/checkout?produto=ipadair"
+  }
 ]
