@@ -19,14 +19,4 @@
     "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/ipadair.png",
     "buy_link": "https://meusite.com/checkout?produto=ipadair"
   }
-  {
-    "id": "ipadair",
-    "category": "iPad",
-    "name": "iPad Air",
-    "price": 4999,
-    "status": "soldout",
-    "plan": "Parcelado 10x",
-    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/ipadair.png",
-    "buy_link": "https://meusite.com/checkout?produto=ipadair"
-  }
 ]
