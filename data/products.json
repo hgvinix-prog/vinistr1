@@ -1,137 +1,47 @@
-[
-  /* ===========================
-      CATEGORIA: iPhone
-  ============================ */
-  {
-    "id": "iphone-14-pro",
-    "category": "iPhone",
-    "name": "iPhone 14 Pro",
-    "price": 7499,
-    "status": "available",
-    "plan": "12x sem juros",
-    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/iphone14pro.png",
-    "buy_link": "https://seusite.com/checkout?produto=iphone-14-pro"
-  },
-  {
-    "id": "iphone-13",
-    "category": "iPhone",
-    "name": "iPhone 13",
-    "price": 4299,
-    "status": "available",
-    "plan": "10x no cartão",
-    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/iphone13.png",
-    "buy_link": "https://seusite.com/checkout?produto=iphone-13"
-  },
-  {
-    "id": "iphone-11",
-    "category": "iPhone",
-    "name": "iPhone 11",
-    "price": 2999,
-    "status": "soldout",
-    "plan": "Plano especial 6x",
-    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/iphone11.png",
-    "buy_link": "https://seusite.com/checkout?produto=iphone-11"
-  },
-
-  /* ===========================
-      CATEGORIA: iPad
-  ============================ */
-  {
-    "id": "ipad-air",
-    "category": "iPad",
-    "name": "iPad Air 5",
-    "price": 4999,
-    "status": "available",
-    "plan": "12x sem juros",
-    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/ipadair5.png",
-    "buy_link": "https://seusite.com/checkout?produto=ipadair"
-  },
-  {
-    "id": "ipad-9",
-    "category": "iPad",
-    "name": "iPad 9ª Geração",
-    "price": 2999,
-    "status": "available",
-    "plan": "Parcelado 10x",
-    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/ipad9.png",
-    "buy_link": "https://seusite.com/checkout?produto=ipad9"
-  },
-  {
-    "id": "ipad-mini-6",
-    "category": "iPad",
-    "name": "iPad Mini 6",
-    "price": 3999,
-    "status": "available",
-    "plan": "Plano especial 8x",
-    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/ipadmini6.png",
-    "buy_link": "https://seusite.com/checkout?produto=ipadmini6"
-  },
-
-  /* ===========================
-      CATEGORIA: Mac
-  ============================ */
-  {
-    "id": "macbook-air-m1",
-    "category": "Mac",
-    "name": "MacBook Air M1",
-    "price": 6499,
-    "status": "available",
-    "plan": "12x sem juros",
-    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/macbookairm1.png",
-    "buy_link": "https://seusite.com/checkout?produto=macbook-air-m1"
-  },
-  {
-    "id": "macbook-pro-m2",
-    "category": "Mac",
-    "name": "MacBook Pro M2",
-    "price": 12999,
-    "status": "available",
-    "plan": "12x premium",
-    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/macbookprom2.png",
-    "buy_link": "https://seusite.com/checkout?produto=macbook-pro-m2"
-  },
-  {
-    "id": "imac-24",
-    "category": "Mac",
-    "name": "iMac 24\" M1",
-    "price": 10999,
-    "status": "soldout",
-    "plan": "Plano especial 10x",
-    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/imac24.png",
-    "buy_link": "https://seusite.com/checkout?produto=imac24"
-  },
-
-  /* ===========================
-      CATEGORIA: Acessori
-  ============================ */
-  {
-    "id": "airpods-pro",
-    "category": "Acessori",
-    "name": "AirPods Pro 2",
-    "price": 1899,
-    "status": "available",
-    "plan": "10x no cartão",
-    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/airpodspro2.png",
-    "buy_link": "https://seusite.com/checkout?produto=airpods-pro2"
-  },
-  {
-    "id": "apple-watch-s8",
-    "category": "Acessori",
-    "name": "Apple Watch Series 8",
-    "price": 3699,
-    "status": "available",
-    "plan": "12x sem juros",
-    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/applewatchs8.png",
-    "buy_link": "https://seusite.com/checkout?produto=apple-watch-s8"
-  },
-  {
-    "id": "carregador-20w",
-    "category": "Acessori",
-    "name": "Carregador Apple 20W",
-    "price": 199,
-    "status": "available",
-    "plan": "à vista",
-    "banner": "https://raw.githubusercontent.com/SEU_USUARIO/REPO/main/imgs/20w.png",
-    "buy_link": "https://seusite.com/checkout?produto=carregador-20w"
-  }
+{
+"link": "https://seulink.com/iphone15"
+}
+],
+"Ipad": [
+{
+"id": "ipad9",
+"nome": "iPad 9ª Geração",
+"preco": 1999,
+"status": "Em estoque",
+"plano": "Plano Mensal 12x",
+"banner": "imgs/ipad9.png",
+"link": "https://seulink.com/ipad9"
+}
+],
+"Mac": [
+{
+"id": "macairm1",
+"nome": "Macbook Air M1",
+"preco": 4999,
+"status": "Em estoque",
+"plano": "Plano Mensal 12x",
+"banner": "imgs/macairm1.png",
+"link": "https://seulink.com/macairm1"
+}
+],
+"Acessori": [
+{
+"id": "airpods3",
+"nome": "AirPods 3",
+"preco": 899,
+"status": "Disponível",
+"plano": "Plano Mensal 6x",
+"banner": "imgs/airpods3.png",
+"link": "https://seulink.com/airpods3"
+},
+{
+"id": "watch8",
+"nome": "Apple Watch Series 8",
+"preco": 2299,
+"status": "Em estoque",
+"plano": "Plano Mensal 10x",
+"banner": "imgs/watch8.png",
+"link": "https://seulink.com/watch8"
+}
 ]
+}
